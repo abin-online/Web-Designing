@@ -29,7 +29,8 @@ body {
     height: 150px;
     width: 150px;
     border-radius: 50%;
-    background-color: rgb(174, 91, 251);
+    /* background-color: rgb(174, 91, 251); */
+    background-color: rgb(26, 45, 130);
     padding: 2px;
     margin-bottom: 20px;
 }
